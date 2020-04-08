@@ -25,10 +25,6 @@ LoveCode Adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang memb
 ```sh
 git clone https://github.com/panduwijaya/Lovecode.git
 ```
-2. buka folder project anda 
-3. buka folder library 
-4. buka file database.class.php
-5. Dan koneksikan database anda di file database.class.php
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
