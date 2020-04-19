@@ -1,4 +1,4 @@
-# LOVE CODE FRAMEWORK
+# TYPHOON FRAMEWORK
 > PHP FRAMEWORK
 
 [![Build Status][travis-image]][travis-url]
@@ -8,7 +8,7 @@
 
 ![](header.png)
 
-## About Love Code Framework
+## About Typhoon Framework
 
 LoveCode Adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek lebih cepat daripada yang Anda bisa jika Anda menulis kode dari awal.
 
