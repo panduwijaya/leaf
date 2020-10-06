@@ -1,4 +1,4 @@
-# TYPHOON FRAMEWORK
+# Leaf FRAMEWORK
 > PHP FRAMEWORK
 
 [![Build Status][travis-image]][travis-url]
