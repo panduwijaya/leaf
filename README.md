@@ -14,8 +14,7 @@ LoveCode Adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang memb
 
 ## Server Requirements
 
-* PHP 5.6
-   >=
+* PHP 5.6 >=
 
 
 ## CARA INSTALL
