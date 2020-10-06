@@ -8,14 +8,14 @@
 
 ![](header.png)
 
-## About Typhoon Framework
+## About Leaf Framework
 
 LoveCode Adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek lebih cepat daripada yang Anda bisa jika Anda menulis kode dari awal.
 
 ## Server Requirements
 
 * PHP 5.6
-   Atau Lebih
+   >=
 
 
 ## CARA INSTALL
